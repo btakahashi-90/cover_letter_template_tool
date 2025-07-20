@@ -1,0 +1,4 @@
+
+recruiter = [Hiring Manager's Name / [Team Name] / [Company Name] Recruiter],
+
+focus_area =  [insert 1–2 words: product design, scalable systems, developer culture, etc.]
